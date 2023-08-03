@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+        En Sapzurro, encontraras hoteles, cabañas, senderos ecologicos y glampings
+        desde los $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="descripcionrestaurantes">
+        En Sapzurro, encontraras hoteles, cabañas, senderos ecologicos y glampings
+        desde los $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="descripcionsitios">
+        En Sapzurro, encontraras hoteles, cabañas, senderos ecologicos y glampings
+        desde los $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+    //aqui informacion del cambio del idioma
+    <string name="acercade">Acerca de</string>
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Portugues</string>
+
+    //botones
+    <string name="botonhoteles">Hoteles</string>
+    <string name="botonrestaurantes">Restaurantes</string>
+    <string name="botonturismo">Sitios Turisticos</string>
+    <string name="botonVermas">Ver más</string>
+
+    //titulos
+
+
+    //nombre de la aplicacion
+    <string name="nombreapp">Puebliando 2</string>
+
+    //acerca de
+    <string name="descripcion">Soy Alexandra Martínez, soy formuladora de proyectos, desarrolladora de Software y líder con enfque social, cultural, ambiental y tecnologia, me apaciona los videojuegos, mi principal objetivo en crear una nave y salir de este planeta Ja ja ja</string>
+
+    //molde hoteles
+    <string name="titulo1">Hotel descanso del mocho</string>
+    <string name="precio">Precio: $50.000</string>
+
+
+
+    //molde restaurante
+
+    <string name="nombre">El Bucanero</string>
+    <string name="descriresta">En este restaurante conseguiras las comidas tipicas de Sapzurro, Capurgana</string>
+    <string name="precioresta">Precio: ($6.000 - 15.000</string>
+
+    //molde sitios
+    <string name="titulositio">Sendero Ecoturistico Sapzurro</string>
+    <string name="telesitio">Telefono: 826 48 35</string>
+    <string name="preciositio">Precio: Por persona $50.000</string>
+
+
+</resources>

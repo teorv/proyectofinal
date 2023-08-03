@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+       Em Sapzurro, você encontrará hotéis, cabanas, trilhas ecológicas e glamping a partir de COP $ 80.000
+        por noite, quartos confortáveis que permitirão desfrutar do descanso e relaxamento da cidade
+    </string>
+
+    <string name="descripcionrestaurantes">
+       Em Sapzurro, você encontrará hotéis, cabanas, trilhas ecológicas e glamping a partir de COP $ 80.000
+        por noite, quartos confortáveis que permitirão desfrutar do descanso e relaxamento da cidade
+    </string>
+
+    <string name="descripcionsitios">
+       Em Sapzurro, você encontrará hotéis, cabanas, trilhas ecológicas e glamping a partir de COP $ 80.000
+        por noite, quartos confortáveis que permitirão desfrutar do descanso e relaxamento da cidade
+    </string>
+
+    <string name="acercade">Sobre</string>
+    <string name="opcion1">Espanhol</string>
+    <string name="opcion2">Inglês</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Português</string>
+    <string name="botonhoteles">Hotéis</string>
+    <string name="botonrestaurantes">Restaurante</string>
+    <string name="botonturismo">Sítios turisticos</string>
+    <string name="botonVermas">Ver mais</string>
+
+
+    <string name="nombreapp">Povoando 2</string>
+    <string name="descripcion">Sou Alexandra Martínez, sou formuladora de projetos, desenvolvedora de software e líder com abordagem social, cultural, ambiental e tecnológica, sou apaixonada por videogames, meu principal objetivo é criar uma nave e sair deste planeta Ha ha ha</string>
+
+
+    //molde hotel
+    <string name="titulo1">Hotel resto da toupeira</string>
+    <string name="precio">Preço: $50.000</string>
+
+    //molde resraurante
+    <string name="nombre">O bucaneiro</string>
+    <string name="descriresta">Neste restaurante você terá as refeições típicas de Sapzurro, Capurgana</string>
+    <string name="precioresta">Preço: ($6.000 - 15.000</string>
+
+    //molde sitios
+    <string name="titulositio">Trilha de Ecoturismo Sapzurro</string>
+    <string name="telesitio">Telefone: 826 48 35</string>
+    <string name="preciositio">Preço: Por pessoa $50.000</string>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VengaAMiPueblo2</string>
+
+     <string name="descripcionhoteles">
+        In Sapzurro, you will find hotels, cabins, ecological trails and glamping
+         from $80,000 COP per night, comfortable rooms that will allow you to enjoy
+         the rest and relaxation of the town
+    </string>
+
+    <string name="descripcionrestaurantes">
+        In Sapzurro, you will find hotels, cabins, ecological trails and glamping
+         from $80,000 COP per night, comfortable rooms that will allow you to enjoy
+         the rest and relaxation of the town
+    </string>
+
+    <string name="descripcionsitios">
+        In Sapzurro, you will find hotels, cabins, ecological trails and glamping
+         from $80,000 COP per night, comfortable rooms that will allow you to enjoy
+         the rest and relaxation of the town
+    </string>
+
+    <string name="acercade">About</string>
+    <string name="opcion1">Spanish</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Italian</string>
+    <string name="opcion4">Portuguese</string>
+    <string name="botonhoteles">Hotels</string>
+    <string name="botonrestaurantes">Restaurant</string>
+    <string name="botonturismo">Tourist sites</string>
+    <string name="botonVermas">See more</string>
+
+    <string name="nombreapp">Populating 2</string>
+    <string name="descripcion">I am Alexandra Martínez, I am a project formulator, software developer and leader with a social, cultural, environmental and technological approach, I am passionate about video games, my main objective is to create a ship and leave this planet Ha ha ha</string>
+
+    //molde hoteles
+    <string name="titulo1">Hotel rest of the mole</string>
+    <string name="precio">Price: $50.000</string>
+
+
+    //molde restaurante
+    <string name="nombre">The buccaneer</string>
+    <string name="descriresta">In this restaurant you will get the typical meals of Sapzurro, Capurgana</string>
+    <string name="precioresta">Price: ($6.000 - 15.000)</string>
+
+    //molde sitios
+    <string name="titulositio">Sapzurro Ecotourism Trail</string>
+    <string name="telesitio">Telefono: 826 48 35</string>
+    <string name="preciositio">Precio: Por persona $50.000</string>
+
+</resources>

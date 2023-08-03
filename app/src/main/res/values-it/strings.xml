@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+       A Sapzurro troverai hotel, baite, percorsi ecologici e glamping
+        da $ 80.000 COP a notte, camere confortevoli che ti permetteranno
+        di goderti il riposo e il relax della città
+    </string>
+
+    <string name="descripcionrestaurantes">
+       A Sapzurro troverai hotel, baite, percorsi ecologici e glamping
+        da $ 80.000 COP a notte, camere confortevoli che ti permetteranno
+        di goderti il riposo e il relax della città
+    </string>
+
+    <string name="descripcionsitios">
+       A Sapzurro troverai hotel, baite, percorsi ecologici e glamping
+        da $ 80.000 COP a notte, camere confortevoli che ti permetteranno
+        di goderti il riposo e il relax della città
+    </string>
+
+    <string name="acercade">Di</string>
+    <string name="opcion1">Spagnolo</string>
+    <string name="opcion2">Inglese</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Portoghese</string>
+    <string name="botonhoteles">Alberghi</string>
+    <string name="botonrestaurantes">Ristorante</string>
+    <string name="botonturismo">Siti turistici</string>
+    <string name="botonVermas">Vedi altro</string>
+
+
+    <string name="nombreapp">Popolando 2</string>
+    <string name="descripcion">Sono Alexandra Martínez, sono una formulatrice di progetti, sviluppatrice di software e leader con un approccio sociale, culturale, ambientale e tecnologico, sono appassionata di videogiochi, il mio obiettivo principale è creare una nave e lasciare questo pianeta Ah ah ah</string>
+
+    //molde hotel
+    <string name="titulo1">Resto dell´hotel della talpa</string>
+    <string name="precio">Prezzo: $50.000</string>
+
+    //molde restaurante
+
+    <string name="nombre">Il bucaniere</string>
+    <string name="descriresta">In questo ristorante otterrai i piatti tipici di Sapzurro, Capurgana</string>
+    <string name="precioresta">Prezzo: ($6.000 - 15.000</string>
+
+    //molde sitios
+    <string name="titulositio">Sentiero ecoturistico Sapzurro</string>
+    <string name="telesitio">Telefono: 826 48 35</string>
+    <string name="preciositio">Prezzo: A testa $50.000</string>
+
+</resources>
